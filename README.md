@@ -1,6 +1,4 @@
-Certainly! Here's a one-page English report about your project:
 
----
 
 # Project Report: PubMed Document Retrieval
 
