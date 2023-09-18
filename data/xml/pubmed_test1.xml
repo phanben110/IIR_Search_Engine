@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30257212</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2211-1247</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell reports</Title>
+                <ISOAbbreviation>Cell Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>BRCA1 Mutation-Specific Responses to 53BP1 Loss-Induced Homologous Recombination and PARP Inhibitor Resistance.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3513-3527.e7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2211-1247(18)31405-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.celrep.2018.08.086</ELocationID>
+            <Abstract>
+                <AbstractText>BRCA1 functions in homologous recombination (HR) both up- and downstream of DNA end resection. However, in cells with 53BP1 gene knockout (KO), BRCA1 is dispensable for the initiation of resection, but whether BRCA1 activity is entirely redundant after end resection is unclear. Here, we found that 53bp1 KO rescued the embryonic viability of a Brca1<sup>ΔC/ΔC</sup> mouse model that harbors a stop codon in the coiled-coil domain. However, Brca1<sup>ΔC/ΔC</sup>;53bp1<sup>-/-</sup> mice were susceptible to tumor formation, lacked Rad51 foci, and were sensitive to PARP inhibitor (PARPi) treatment, indicative of suboptimal HR. Furthermore, BRCA1 mutant cancer cell lines were dependent on truncated BRCA1 proteins that retained the ability to interact with PALB2 for 53BP1 KO induced RAD51 foci and PARPi resistance. Our data suggest that the overall efficiency of 53BP1 loss of function induced HR may be BRCA1 mutation dependent. In the setting of 53BP1 KO, hypomorphic BRCA1 proteins are active downstream of end resection, promoting RAD51 loading and PARPi resistance.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 The Author(s). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nacson</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA; Temple University, Lewis Katz School of Medicine, Philadelphia, PA 19140, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krais</LastName>
+                    <ForeName>John J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernhardy</LastName>
+                    <ForeName>Andrea J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clausen</LastName>
+                    <ForeName>Emma</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Wanjuan</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, UNC Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yifan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicolas</LastName>
+                    <ForeName>Emmanuelle</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA; Genomics Facility, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Kathy Q</ForeName>
+                    <Initials>KQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Histopathology Facility, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tricarico</LastName>
+                    <ForeName>Rossella</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hua</LastName>
+                    <ForeName>Xiang</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blood Cell Development and Function Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DiMarcantonio</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blood Cell Development and Function Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinez</LastName>
+                    <ForeName>Esteban</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blood Cell Development and Function Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zong</LastName>
+                    <ForeName>Dali</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Genome Integrity, National Cancer Institute, NIH, Bethesda, MD 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Handorf</LastName>
+                    <ForeName>Elizabeth A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics and Bioinformatics Facility, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bellacosa</LastName>
+                    <ForeName>Alfonso</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Testa</LastName>
+                    <ForeName>Joseph R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Biology Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nussenzweig</LastName>
+                    <ForeName>Andre</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Genome Integrity, National Cancer Institute, NIH, Bethesda, MD 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Gaorav P</ForeName>
+                    <Initials>GP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, UNC Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sykes</LastName>
+                    <ForeName>Stephen M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blood Cell Development and Function Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Neil</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA. Electronic address: neil.johnson@fccc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell Rep</MedlineTA>
+            <NlmUniqueID>101573691</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">53BP1</Keyword>
+            <Keyword MajorTopicYN="N">BRCA1</Keyword>
+            <Keyword MajorTopicYN="N">PARP inhibitors</Keyword>
+            <Keyword MajorTopicYN="N">homologous recombination</Keyword>
+            <Keyword MajorTopicYN="N">resistance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30257212</ArticleId>
+            <ArticleId IdType="pii">S2211-1247(18)31405-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.celrep.2018.08.086</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

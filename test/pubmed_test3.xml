@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30247247</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-1438</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of gynecological cancer : official journal of the International Gynecological Cancer Society</Title>
+                <ISOAbbreviation>Int. J. Gynecol. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy of Neoadjuvant Therapy With Cisplatin Plus Mitomycin C in BRCA1-Mutated Ovarian Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1498-1506</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/IGC.0000000000001352</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Cisplatin and mitomycin C exert high activity towards BRCA1-deficient cells. This study aimed to evaluate the efficacy of a combination of these drugs in hereditary BRCA1-associated ovarian cancer (OC).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Twelve OC patients, who could not be treated by primary debulking surgery owing to extensive tumor spread, were given neoadjuvant cisplatin (100 mg/m) and mitomycin C (10 mg/m) every 4 weeks for 3 (n = 9), 2 (n = 2), or 4 (n = 1) cycles.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The decrease of tumor burden and complete surgical cytoreduction were achieved in all patients. Pathologic complete response, defined as the absence of tumor cells in surgically removed tissues, was observed in 2 (17%) of 12 cases. Retrospective analysis of 62 OC in BRCA1 mutation carriers subjected to conventional neoadjuvant chemotherapy schemes revealed 36 objective tumor responses (58%) and 37 instances (60%) of complete cytoreductive surgery; however, none of these patients demonstrated pathologic complete response.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The combination of cisplatin plus mitomycin C showed promising results in BRCA1-driven OC and therefore deserves further clinical evaluation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gorodnova</LastName>
+                    <ForeName>Tatyana V</ForeName>
+                    <Initials>TV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kotiv</LastName>
+                    <ForeName>Khristina B</ForeName>
+                    <Initials>KB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ivantsov</LastName>
+                    <ForeName>Alexandr O</ForeName>
+                    <Initials>AO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikheyeva</LastName>
+                    <ForeName>Olga N</ForeName>
+                    <Initials>ON</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leningrad Regional Oncological Dispensary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikhailiuk</LastName>
+                    <ForeName>Galina I</ForeName>
+                    <Initials>GI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leningrad Regional Oncological Dispensary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lisyanskaya</LastName>
+                    <ForeName>Alla S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>City Oncological Dispensary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikaya</LastName>
+                    <ForeName>Nikolay A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guseynov</LastName>
+                    <ForeName>Konstantin D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bondarev</LastName>
+                    <ForeName>Nikolay E</ForeName>
+                    <Initials>NE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matveyeva</LastName>
+                    <ForeName>Nataliya S</ForeName>
+                    <Initials>NS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nekrasova</LastName>
+                    <ForeName>Ekatherina A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sidoruk</LastName>
+                    <ForeName>Anna A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roman</LastName>
+                    <ForeName>Laslo D</ForeName>
+                    <Initials>LD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leningrad Regional Oncological Dispensary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manikhas</LastName>
+                    <ForeName>Georgiy M</ForeName>
+                    <Initials>GM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>City Oncological Dispensary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Belyaev</LastName>
+                    <ForeName>Alexey M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sokolenko</LastName>
+                    <ForeName>Anna P</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berlev</LastName>
+                    <ForeName>Igor V</ForeName>
+                    <Initials>IV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>N.N. Petrov Institute of Oncology.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imyanitov</LastName>
+                    <ForeName>Evgeny N</ForeName>
+                    <Initials>EN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Gynecol Cancer</MedlineTA>
+            <NlmUniqueID>9111626</NlmUniqueID>
+            <ISSNLinking>1048-891X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30247247</ArticleId>
+            <ArticleId IdType="doi">10.1097/IGC.0000000000001352</ArticleId>
+            <ArticleId IdType="pii">00009577-201810000-00009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

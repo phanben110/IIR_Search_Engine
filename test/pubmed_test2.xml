@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">30257646</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2407</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC cancer</Title>
+                <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinical selection criteria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>926</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12885-018-4821-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Breast cancer is the most common cancer in women. 12-15% of all tumors are triple-negative breast cancers (TNBC). So far, TNBC has been mainly associated with mutations in BRCA1. The presence of other predisposing genes seems likely since DNA damage repair is a complex process that involves several genes. Therefore we investigated if mutations in other genes are involved in cancer development and whether TNBC is an additional indicator of mutational status besides family history and age of onset.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We performed a germline panel-based screening of 10 high and low-moderate penetrance breast cancer susceptibility genes (BRCA1, BRCA2, ATM, CDH1, CHEK2, NBN, PALB2, RAD51C, RAD51D and TP53) in 229 consecutive individuals affected with TNBC unselected for age, family history or bilateral disease. Within this cohort we compared the number of mutation carriers fulfilling clinical selection criteria with the total number of carriers identified.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Age at diagnosis ranged from 23 to 80 years with an average age of 50.2 years. In 57 women (24.9%) we detected a pathogenic mutation, with a higher frequency (29.7%) in the group manifesting cancer before 60 years. Deleterious BRCA1 mutations occurred in 14.8% of TNBC patients. These were predominantly recurrent frameshift mutations (24/34, 70.6%). Deleterious BRCA2 mutations occurred in 5.7% of patients, all but one (c.1813dupA) being unique. While no mutations were found in CDH1 and TP53, 10 mutations were detected in one of the six other predisposition genes. Remarkably, neither of the ATM, RAD51D, CHEK2 and PALB2 mutation carriers had a family history. Furthermore, patients with non-BRCA1/2 mutations were not significantly younger than mutation negative women (p = 0.3341). Most importantly, among the 57 mutation carriers, ten (17.5%) would be missed using current clinical testing criteria including five (8%) with BRCA1/2 mutations.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In summary, our data confirm and expand previous studies of a high frequency of germline mutations in genes associated with ineffective repair of DNA damage in women with TNBCs. Neither age of onset, contralateral disease nor family history were able to discern all mutation positive individuals. Therefore, TNBC should be considered as an additional criterion for panel based genetic testing.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hoyer</LastName>
+                    <ForeName>Juliane</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9368-0767</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Genetics, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Schwabachanlage 10, 91054, Erlangen, Germany. Juliane.Hoyer@uk-erlangen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasileiou</LastName>
+                    <ForeName>Georgia</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Genetics, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Schwabachanlage 10, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uebe</LastName>
+                    <ForeName>Steffen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Genetics, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Schwabachanlage 10, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wunderle</LastName>
+                    <ForeName>Marius</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Comprehensive Cancer Center Erlangen-EMN, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsstr. 21-23, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraus</LastName>
+                    <ForeName>Cornelia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Genetics, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Schwabachanlage 10, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fasching</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Comprehensive Cancer Center Erlangen-EMN, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsstr. 21-23, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thiel</LastName>
+                    <ForeName>Christian T</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Genetics, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Schwabachanlage 10, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartmann</LastName>
+                    <ForeName>Arndt</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Pathology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Krankenhausstr. 8-10, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beckmann</LastName>
+                    <ForeName>Matthias W</ForeName>
+                    <Initials>MW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Comprehensive Cancer Center Erlangen-EMN, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsstr. 21-23, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lux</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Comprehensive Cancer Center Erlangen-EMN, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsstr. 21-23, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reis</LastName>
+                    <ForeName>André</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Genetics, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Schwabachanlage 10, 91054, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Cancer</MedlineTA>
+            <NlmUniqueID>100967800</NlmUniqueID>
+            <ISSNLinking>1471-2407</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">Gene panel</Keyword>
+            <Keyword MajorTopicYN="N">Mutational spectrum</Keyword>
+            <Keyword MajorTopicYN="N">Next-generation sequencing</Keyword>
+            <Keyword MajorTopicYN="N">TNBC</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30257646</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12885-018-4821-8</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12885-018-4821-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
