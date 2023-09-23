@@ -152,90 +152,79 @@ if st.button("Search"):
     if not matching_articles:
         st.write("No matching articles found.")
     else:
-        # for idx, article in enumerate(matching_articles, start=1):
-        #     st.markdown(f'<p style="text-align:center; color:red;">Matching Article {idx}:</p>', unsafe_allow_html=True)
-        #     # st.write(f"Matching Article {idx}:")
 
-        #     # Calculate and display document statistics
-        #     num_characters = len(article['Abstract'])
-        #     num_words = len(article['Abstract'].split())
-        #     num_sentences = len(re.split(r'[.!?]', article['Abstract']))
+# # ...
+#         for idx, article in enumerate(matching_articles, start=1):
+#             st.markdown(f'<p style="text-align:center; color:red;">Matching Article {idx}:</p>', unsafe_allow_html=True)
+#             # st.write(f"Matching Article {idx}:")
 
-        #     # Create a table for document statistics
-        #     statistics_table = {
-        #         "Statistic": ["Number of Characters", "Number of Words", "Number of Sentences (EOS)"],
-        #         "Value": [num_characters, num_words, num_sentences]
-        #     }
-        #     st.table(statistics_table)
+#             # Calculate and display document statistics
+#             try:
+#                 num_characters = len(article['Abstract'])
+#             except TypeError:
+#                 num_characters = 0
 
-        #     # st.write("Full Information:")
-        #     for key, value in article.items():
-        #         if key in ['PMID', 'Title', 'Journal Title', 'ISSN', 'Publication Date', 'Authors', 'Keywords']:
-        #             # Format these fields as bold and italic
-        #             st.markdown(f"**_{key}_**: {value}", unsafe_allow_html=True)
-        #         else:
-        #             st.markdown(f"**{key}**: {value}", unsafe_allow_html=True)
-        #     st.write("---")
-# ...
-        # for idx, article in enumerate(matching_articles, start=1):
-        #     st.markdown(f'<p style="text-align:center; color:red;">Matching Article {idx}:</p>', unsafe_allow_html=True)
-        #     # st.write(f"Matching Article {idx}:")
+#             try:
+#                 abstract_text = article['Abstract']
+#                 num_words = len(abstract_text.split())
+#             except (TypeError, AttributeError):
+#                 num_words = 0
 
-        #     # Calculate and display document statistics
-        #     try:
-        #         num_characters = len(article['Abstract'])
-        #     except TypeError:
-        #         num_characters = 0
+#             num_sentences = len(re.split(r'[.!?]', abstract_text)) if abstract_text else 0
 
-        #     num_words = len(article['Abstract'].split())
-        #     num_sentences = len(re.split(r'[.!?]', article['Abstract']))
+#             # Create a table for document statistics
+#             statistics_table = {
+#                 "Statistic": ["Number of Characters", "Number of Words", "Number of Sentences (EOS)"],
+#                 "Value": [num_characters, num_words, num_sentences]
+#             }
+#             st.table(statistics_table)
 
-        #     # Create a table for document statistics
-        #     statistics_table = {
-        #         "Statistic": ["Number of Characters", "Number of Words", "Number of Sentences (EOS)"],
-        #         "Value": [num_characters, num_words, num_sentences]
-        #     }
-        #     st.table(statistics_table)
+#             # st.write("Full Information:")
+#             for key, value in article.items():
+#                 if key in ['PMID', 'Title', 'Journal Title', 'ISSN', 'Publication Date', 'Authors', 'Keywords']:
+#                     # Format these fields as bold and italic
+#                     st.markdown(f"**_{key}_**: {value}", unsafe_allow_html=True)
+#                 else:
+#                     st.markdown(f"**{key}**: {value}", unsafe_allow_html=True)
+#             st.write("---")
+# Inside the for loop where you display matching articles
+      for idx, article in enumerate(matching_articles, start=1):
+          st.markdown(f'<p style="text-align:center; color:red;">Matching Article {idx}:</p>', unsafe_allow_html=True)
+          
+          # Calculate and display line count for abstract
+          abstract_text = article['Abstract']
+          num_lines = len(abstract_text.split('\n')) if abstract_text else 0
+          # st.markdown(f"**Number of Lines in Abstract**: {num_lines}", unsafe_allow_html=True)
 
-        #     # st.write("Full Information:")
-        #     for key, value in article.items():
-        #         if key in ['PMID', 'Title', 'Journal Title', 'ISSN', 'Publication Date', 'Authors', 'Keywords']:
-        #             # Format these fields as bold and italic
-        #             st.markdown(f"**_{key}_**: {value}", unsafe_allow_html=True)
-        #         else:
-        #             st.markdown(f"**{key}**: {value}", unsafe_allow_html=True)
-        #     st.write("---")
-# ...
-        for idx, article in enumerate(matching_articles, start=1):
-            st.markdown(f'<p style="text-align:center; color:red;">Matching Article {idx}:</p>', unsafe_allow_html=True)
-            # st.write(f"Matching Article {idx}:")
+          # Calculate and display document statistics
+          try:
+              num_characters = len(article['Abstract'])
+          except TypeError:
+              num_characters = 0
 
-            # Calculate and display document statistics
-            try:
-                num_characters = len(article['Abstract'])
-            except TypeError:
-                num_characters = 0
+          try:
+              abstract_text = article['Abstract']
+              num_words = len(abstract_text.split())
+          except (TypeError, AttributeError):
+              num_words = 0
 
-            try:
-                abstract_text = article['Abstract']
-                num_words = len(abstract_text.split())
-            except (TypeError, AttributeError):
-                num_words = 0
+          num_sentences = len(re.split(r'[.!?]', abstract_text)) if abstract_text else 0
 
-            num_sentences = len(re.split(r'[.!?]', abstract_text)) if abstract_text else 0
+          # Create a table for document statistics
+          statistics_table = {
+              "Statistic": ["Number of Characters", "Number of Words", "Number of Sentences (EOS)"],
+              "Value": [num_characters, num_words, num_sentences]
+          }
+          st.table(statistics_table)
 
-            # Create a table for document statistics
-            statistics_table = {
-                "Statistic": ["Number of Characters", "Number of Words", "Number of Sentences (EOS)"],
-                "Value": [num_characters, num_words, num_sentences]
-            }
-            st.table(statistics_table)
+          # Display other article information
+          for key, value in article.items():
+              if key in ['PMID', 'Title', 'Journal Title', 'ISSN', 'Publication Date', 'Authors', 'Keywords']:
+                  # Format these fields as bold and italic
+                  st.markdown(f"**_{key}_**: {value}", unsafe_allow_html=True)
+              else:
+                  st.markdown(f"**{key}**: {value}", unsafe_allow_html=True)
+          st.write("---")
 
-            # st.write("Full Information:")
-            for key, value in article.items():
-                if key in ['PMID', 'Title', 'Journal Title', 'ISSN', 'Publication Date', 'Authors', 'Keywords']:
-                    # Format these fields as bold and italic
-                    st.markdown(f"**_{key}_**: {value}", unsafe_allow_html=True)
-                else:
-                    st.markdown(f"**{key}**: {value}", unsafe_allow_html=True)
-            st.write("---")
+      # Display the total number of matching articles
+      st.write(f"Total Number of Matching Articles: {len(matching_articles)}")
